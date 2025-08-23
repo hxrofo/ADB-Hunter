@@ -1,6 +1,7 @@
 # adb-hunter
 A powerful Python tool **created by DEEPSEEK** for scanning the internet to discover exposed Android Debug Bridge (ADB) devices. This scanner can target specific IP ranges, regions, or perform continuous random scanning to find vulnerable devices.
-Features
+
+**Features:**
 
     Multi-region scanning: Focus on specific regions (North America, Europe, Asia, etc.)
 
@@ -15,7 +16,7 @@ Features
     Continuous scanning: Option for ongoing random scanning of different regions
 
     Detailed reporting: Save results to file with device information and locations
-**Installation**
+**Installation:**
 
     git clone https://github.com/hxrofo/adb-hunter
     
@@ -23,7 +24,7 @@ Features
     
     pip3 install requests --break-system-packages
 
-**Usage Examples**
+**Usage Examples:**
 
     python3 adb-hunter.py -o results.txt -c
     
