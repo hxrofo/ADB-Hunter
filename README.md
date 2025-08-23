@@ -42,8 +42,8 @@ Features
     Type: python3 adb-hunter.py -h for help
 
 **Output Format:**
-   
-    [+] ADB Found | Target: 123.45.67.89:5555 | Product: samsung | Model: SM-G950F | Device: dreamlte | Location: Berlin, Germany | ISP: Deutsche Telekom AG
+
+<img width="1888" height="380" alt="screenshot" src="https://github.com/user-attachments/assets/d62fae51-77e7-4583-8585-e1dda8712c92" />
 
 **Disclaimer:**
    
