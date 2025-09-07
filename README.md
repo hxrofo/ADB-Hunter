@@ -47,7 +47,5 @@
 
 **Disclaimer:**
    
-   This tool is provided for educational and security research purposes only. The authors are not responsible for any misuse or damage     
-   
-   caused by this program. Always ensure you have proper authorization before scanning any network. 
+   This tool is provided for educational and security research purposes only. The authors are not responsible for any misuse or damage caused by this program. Always ensure you have proper authorization before scanning any network. 
     
